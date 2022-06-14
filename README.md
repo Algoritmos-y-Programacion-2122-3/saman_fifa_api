@@ -1,4 +1,4 @@
-# saman Fifa
+# Saman Fifa
 
 Documentación de la API de Saman Fifa:
 ```
