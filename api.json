@@ -1,6 +1,6 @@
 {
     "teams":[
-        {
+    {
         "name": "Saman F.C.",
         "stadium": {
             "name": "Saman Arena",
@@ -56,16 +56,16 @@
                 "position": "midfielder"
             },
             {
-                "name": "Richard Le",
-                "number": 5,
+                "name": "Ricardo Perez",
+                "number": 16,
                 "position": "striker"
             },
             {
                 "name": "Richard Le",
-                "number": 55,
+                "number": 15,
                 "position": "striker"
-            },
-        ],
+            }
+        ]
     },
     {
         "name": "Paraninfo Club.",
@@ -79,27 +79,27 @@
         "lineup": [
             {
                 "name": "Maria Gonzalez",
-                "number": 01,
+                "number": 1,
                 "position": "Goalkeeper"
             },
             {
                 "name": "Adrian Perez",
-                "number": 04,
+                "number": 4,
                 "position": "defense"
             },
             {
                 "name": "Camilo Andrade",
-                "number": 05,
+                "number": 5,
                 "position": "defense"
             },
             {
                 "name": "Veronica Santamonica",
-                "number": 08,
+                "number": 8,
                 "position": "defense"
             },
             {
                 "name": "Carlos Kal",
-                "number": 02,
+                "number": 2,
                 "position": "defense"
             },
             {
@@ -124,15 +124,122 @@
             },
             {
                 "name": "Cristiano Arnaldo",
-                "number": 09,
+                "number": 9,
                 "position": "striker"
             },
             {
                 "name": "Diego Sim",
                 "number": 18,
                 "position": "striker"
-            },
-        ],
+            }
+        ]
     },
-],
+    {
+        "name": "Las Alcantarillas C.F.",
+        "stadium": {
+            "name": "Celaup Stadium",
+            "map": {
+                "general": [5,5],
+                "vip": [5,2]
+            }
+        },
+        "lineup": [
+            {
+                "name": "Antonio Guerra",
+                "number": 12,
+                "position": "Goalkeeper"
+            },
+            {
+                "name": "Mario Castaneda",
+                "number": 8,
+                "position": "defense"
+            },
+            {
+                "name": "Gabriel Colmenares",
+                "number": 5,
+                "position": "defense"
+            },
+            {
+                "name": "Omar Vina",
+                "number": 4,
+                "position": "defense"
+            },
+            {
+                "name": "Stefania Tassinari",
+                "number": 02,
+                "position": "defense"
+            },
+            {
+                "name": "Eduardo Mila",
+                "number": 10,
+                "position": "midfielder"
+            },
+            {
+                "name": "Tuto Comodo",
+                "number": 11,
+                "position": "midfielder"
+            },
+            {
+                "name": "Maria Lopez",
+                "number": 23,
+                "position": "midfielder"
+            },
+            {
+                "name": "Henrique Hernandez",
+                "number": 13,
+                "position": "midfielder"
+            },
+            {
+                "name": "Lionel Metzi",
+                "number": 9,
+                "position": "striker"
+            },
+            {
+                "name": "Armando Rodriguez",
+                "number": 18,
+                "position": "striker"
+            }
+        ]
+    }
+    ],
+    "referees":["Maria Pilar", "Rafael Matienzo", "Christian Guillen"],
+    "restaurant":[
+            {
+            "name": "Doble Cheese Burger",
+            "price": 11.99,
+            "quantity": 10,
+            "type": "c",
+            "packing": false,
+            }
+            {
+            "name": "Santa Teresa 1976",
+            "price": 20,
+            "quantity": 9,
+            "type": "b",
+            "alcoholic": true,
+            }
+            {
+            "name": "12 Pack Pesis",
+            "price": 16,
+            "quantity": 3,
+            "type": "b",
+            "alcoholic": false,
+            },
+            {
+            "name": "Doritos",
+            "packing": true,
+            "price": 1.5,
+            "quantity": 33,
+            "type": "c",
+            "portion": 1,
+            },
+            {
+            "name": "Hot Dog",
+            "price": 4.99,
+            "packing": false,
+            "quantity": 13,
+            "type": "c",
+            "portion": 4,
+            }
+    ]
 }
