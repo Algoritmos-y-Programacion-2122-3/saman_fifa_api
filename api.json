@@ -210,14 +210,14 @@
             "quantity": 10,
             "type": "c",
             "packing": false,
-            }
+            },
             {
             "name": "Santa Teresa 1976",
             "price": 20,
             "quantity": 9,
             "type": "b",
             "alcoholic": true,
-            }
+            },
             {
             "name": "12 Pack Pesis",
             "price": 16,
